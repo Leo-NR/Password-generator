@@ -1,10 +1,11 @@
-<div align="center">
-
-[ 🇧🇷 Português ](#-português) | [ 🇺🇸 English ](#-english)
-
-</div>
+<p align="center">
+  <a href="#portugues">🇧🇷 Português</a> &nbsp;&bull;&nbsp;
+  <a href="#english">🇺🇸 English</a>
+</p>
 
 ---
+
+<div id="portugues"></div>
 
 ## 🇧🇷 Português
 
