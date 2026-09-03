@@ -1,15 +1,35 @@
-<p align="center">
-  <a href="#portugues">🇧🇷 Português</a> &nbsp;&bull;&nbsp;
-  <a href="#english">🇺🇸 English</a>
-</p>
+# Password Generator / Gerador de Senhas
+
+A simple Python desktop app with a graphical interface to quickly generate random, secure passwords. / Um projetinho simples em Python com interface gráfica para gerar senhas aleatórias e seguras de forma rápida.
 
 ---
 
-<div id="portugues"></div>
+## 🇺🇸 English
+
+### Features
+- Choose password length (from 6 to 32 characters).
+- Choose whether to include letters, numbers, and symbols.
+- Switch instantly between English and Portuguese right inside the app.
+- One-click button to copy the password directly to your clipboard.
+
+### How to use
+If you just want to download and run the app without touching the code:
+1. Go to the **Releases** section on the right side of this repository.
+2. Download the executable file (`.exe`).
+3. Open and run!
+
+### How to run from source
+If you want to run the source code directly:
+1. Make sure you have Python installed on your machine.
+2. Clone or download this repository.
+3. Run the following command:
+   ```bash
+   python Password-generator.py
+   ```
+
+---
 
 ## 🇧🇷 Português
-
-Um projetinho simples em Python com interface gráfica para gerar senhas aleatórias e seguras de forma rápida.
 
 ### O que ele faz?
 - Escolha o tamanho da senha (de 6 a 32 caracteres).
@@ -26,7 +46,8 @@ Se você quiser só baixar e usar o programa pronto sem precisar mexer em códig
 ### Como rodar o código
 Se quiser rodar direto pelo código fonte:
 1. Tenha o Python instalado na sua máquina.
-2. Baixe este repositório.
+2. Baixe ou clone este repositório.
 3. Execute o comando:
    ```bash
    python Password-generator.py
+   ```
